@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3d170aa9a53d01952fb13e000c61de88/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0a17e5341f85c22714fc3396e656b184/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f5b22da93276538620342df4f2ff7155/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d4406e21f53c2f3af894b19e9b2c850b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eee834aa78e99fb4152f4c95c87b2455/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3f43504b7d88bc216a58972dd4991d17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/165234787574cb052e165a294479503b/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e5af52ef68a72683e4bf490e40b32822/AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/419d966a44ed6901e5b92f6f0ea8378a/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eb237c698f5908ce8ef78a782e79ad7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/714c1c7132253d12848fa2161a9c64f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0306d78b9797c45d65e7421d227d2ef8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/6e5920e39f55258f45e99ade7afa0de3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/61ecc088b0299c44a5a77ed3c048b762/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/bcbd91fcd4d8dc9bbb4a4b03434b4db5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/b0c07fd7daf3ef5434123ad678e2e610/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/ab654e5d031b132a6a5be7bb3b5c2cd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d9cb450ff8d077f83f4c50403c13d763/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/a599cb8a4c441462033150daaada2c82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/605fd226e45e092e087373c429fea7be/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/975c2112685d7ebb93999e00e65cf1e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f47266447af821e0964cd04763732f17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dc92c2932ad15f0dbb416d119b3d4ef8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0dde7e0b362295fb96554513ac07689d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/5c28108036eeb975c23d367739c20b3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e90c388f8e6cb06dc7a0c5345d130a9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d3ceb2fb9c9970b138c4e18b4a6fdb4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/be7d4cca4c7199773672e9d57b1ed397/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dcd2f185c4f8d951ca3b9cfd9cc58cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e6ff728dd146d3743b66374a6837ee97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/1ba6751fc85b7fb8eeec657648983c2e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:2:5-58
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3d170aa9a53d01952fb13e000c61de88/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3d170aa9a53d01952fb13e000c61de88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0a17e5341f85c22714fc3396e656b184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0a17e5341f85c22714fc3396e656b184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f5b22da93276538620342df4f2ff7155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f5b22da93276538620342df4f2ff7155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d4406e21f53c2f3af894b19e9b2c850b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d4406e21f53c2f3af894b19e9b2c850b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eee834aa78e99fb4152f4c95c87b2455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eee834aa78e99fb4152f4c95c87b2455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3f43504b7d88bc216a58972dd4991d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3f43504b7d88bc216a58972dd4991d17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/165234787574cb052e165a294479503b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/165234787574cb052e165a294479503b/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e5af52ef68a72683e4bf490e40b32822/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e5af52ef68a72683e4bf490e40b32822/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/419d966a44ed6901e5b92f6f0ea8378a/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/419d966a44ed6901e5b92f6f0ea8378a/AndroidManifest.xml:5:5-6:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eb237c698f5908ce8ef78a782e79ad7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/eb237c698f5908ce8ef78a782e79ad7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/714c1c7132253d12848fa2161a9c64f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/714c1c7132253d12848fa2161a9c64f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0306d78b9797c45d65e7421d227d2ef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0306d78b9797c45d65e7421d227d2ef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/6e5920e39f55258f45e99ade7afa0de3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/6e5920e39f55258f45e99ade7afa0de3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/61ecc088b0299c44a5a77ed3c048b762/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/61ecc088b0299c44a5a77ed3c048b762/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/bcbd91fcd4d8dc9bbb4a4b03434b4db5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/bcbd91fcd4d8dc9bbb4a4b03434b4db5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/b0c07fd7daf3ef5434123ad678e2e610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/b0c07fd7daf3ef5434123ad678e2e610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/ab654e5d031b132a6a5be7bb3b5c2cd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/ab654e5d031b132a6a5be7bb3b5c2cd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d9cb450ff8d077f83f4c50403c13d763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d9cb450ff8d077f83f4c50403c13d763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/a599cb8a4c441462033150daaada2c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/a599cb8a4c441462033150daaada2c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/605fd226e45e092e087373c429fea7be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/605fd226e45e092e087373c429fea7be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/975c2112685d7ebb93999e00e65cf1e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/975c2112685d7ebb93999e00e65cf1e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f47266447af821e0964cd04763732f17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f47266447af821e0964cd04763732f17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dc92c2932ad15f0dbb416d119b3d4ef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dc92c2932ad15f0dbb416d119b3d4ef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0dde7e0b362295fb96554513ac07689d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/0dde7e0b362295fb96554513ac07689d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/5c28108036eeb975c23d367739c20b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/5c28108036eeb975c23d367739c20b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e90c388f8e6cb06dc7a0c5345d130a9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e90c388f8e6cb06dc7a0c5345d130a9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d3ceb2fb9c9970b138c4e18b4a6fdb4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/d3ceb2fb9c9970b138c4e18b4a6fdb4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/be7d4cca4c7199773672e9d57b1ed397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/be7d4cca4c7199773672e9d57b1ed397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dcd2f185c4f8d951ca3b9cfd9cc58cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/dcd2f185c4f8d951ca3b9cfd9cc58cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e6ff728dd146d3743b66374a6837ee97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e6ff728dd146d3743b66374a6837ee97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/1ba6751fc85b7fb8eeec657648983c2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/1ba6751fc85b7fb8eeec657648983c2e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3d170aa9a53d01952fb13e000c61de88/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/3d170aa9a53d01952fb13e000c61de88/AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e5af52ef68a72683e4bf490e40b32822/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/e5af52ef68a72683e4bf490e40b32822/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/419d966a44ed6901e5b92f6f0ea8378a/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/419d966a44ed6901e5b92f6f0ea8378a/AndroidManifest.xml:8:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/605fd226e45e092e087373c429fea7be/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/605fd226e45e092e087373c429fea7be/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/amitpandey/.gradle/caches/transforms-2/files-2.1/f9f20b3cef95857745591ff19e8c2646/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:15:9-61
+	android:roundIcon
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:16:9-50
+	android:icon
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:18:9-40
+activity#org.tensorflow.lite.examples.classification.ClassifierActivity
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:20:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/amitpandey/Documents/Summer_19/int1/app/src/main/AndroidManifest.xml:25:27-74
